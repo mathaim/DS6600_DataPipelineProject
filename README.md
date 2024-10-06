@@ -27,7 +27,7 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Citation:
     - Licesning Information:
     - Restrictions:
-- Criminal records via [criminal records](https://vsp.virginia.gov/services/criminal-background/)
+- Criminal records via [Virginia State Police](https://vsp.virginia.gov/services/criminal-background/)
     - Mechanism: webscraping
     - Citation:
     - Licesning Information:
@@ -62,7 +62,8 @@ As we discussed in class, the legality of such webscraping seems to be a point o
 
 #### Potential analyses (6 points): identifies the key features/variables in the data sources listed in the previous section and provides some thoughts on the kinds of analyses that you would like to include on a public-facing dashboard. (Note: when I say “analysis”, I don’t necessarily mean machine learning. You are free to use ML or other heavy models, if you have the background and desire to do so, but these analyses can be simple, exploratory, and descriptive like cross-tabs, histograms, and correlation tables as these simple analyses usually are very effective at communicating key ideas.)
 
-1. **Gather information on who the members of the Board of Visitors:** The dashboard should serve as a resource in better understanding the people in these positions of power. The links on the [UVA's Board of Visitors Members](https://bov.virginia.edu/people) and [UVIMCO members](https://uvimco.org/leadership-team/) on the websites highlights career accomplishments and paints them in a very positive light, but I hope to go beyond that with this dashboard. What have they done in their careers? Do they hold any public political views? What is their voting history? Have they ever been sued? In essence, what is their digital footprint? I don't necessarily have expectations on what I will find because this is a very open ended question. I will probably end up using some type of NLP to synthesize text if I find anything particularly verbose. 
+1. **Gather information on who the members of the Board of Visitors:** The dashboard should serve as a resource in better understanding the people in these positions of power. The links on the [UVA's Board of Visitors Members](https://bov.virginia.edu/people) and [UVIMCO members](https://uvimco.org/leadership-team/) on the websites highlights career accomplishments and paints them in a very positive light, but I hope to go beyond that with this dashboard. What have they done in their careers? Do they hold any public political views? What is their voting history? Have they ever been sued? In essence, what is their digital footprint? I don't necessarily have expectations on what I will find because this is a very open ended question. I will probably end up using some type of NLP to synthesize text if I find anything particularly verbose.
+   
 2. **Provide people who use my dashboard with the opportunity to express disappointment to these members:** My primary motivation for this project is not related to data wrangling. I hope to build a tool that prompts users' names and email addresses and automates an email to the 12 members. This email would express disappointment in their actions and highlight how their decision to not divest goes against UVA's mission of doing both great and good. 
 
 
