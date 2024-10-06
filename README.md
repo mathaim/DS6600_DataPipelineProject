@@ -17,9 +17,9 @@ I don't know if a dashboard exists that is comparable to what I want to do. I wo
 
 #### Data (6 points): lists potential sources for raw data, with citations, along with descriptions of the mechanism through which each data source shares data (through an API, web-scraping, a CSV file, etc.). Also, find and describe the licensing information for each data source to determine whether and under what restrictions you are allowed to use the data.
 The dataset that this dashboard relies on will be novel and from on the following sources: 
-- Voting history via [this](https://www.elections.virginia.gov/candidatepac-info/client-services/)
+- Voting history via [The Virginia Department of Elections](https://www.elections.virginia.gov/candidatepac-info/client-services/)
     - Mechanism: webscraping
-    - Citation:
+    - Citation: Virginia Dept. of Elections: Client Services, www.elections.virginia.gov/candidatepac-info/client-services/. Accessed 6 Oct. 2024. 
     - Licesning Information:
     - Restrictions:
 - LinkedIn profiles
@@ -31,23 +31,28 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Mechanism: webscraping
     - Citation:
     - Licesning Information:
-    - Restrictions:
-- publicly available business records via [Department of Professional and Occupation Regulation](https://www.dpor.virginia.gov/RecordsandDocuments) and [State Corporation Commission
+  Business records via [Department of Professional and Occupation Regulation](https://www.dpor.virginia.gov/RecordsandDocuments) and [State Corporation Commission
 Clerk's Information System](https://cis.scc.virginia.gov/)
     - Mechanism: webscraping
     - Citation:
     - Licesning Information:
     - Restrictions:
-- [court records](https://www.uscourts.gov/court-records/find-case-pacer#:~:text=Federal%20case%20files%20are%20maintained,Register%20for%20a%20PACER%20account.)
-    - Mechanism: webscraping
+- Court records via [Public Records Maintained by the Office of the Executive Secretary] 
+    - Mechanism: requested from the Director of Legislative and Public Relations, Office of the Executive Secretary, Supreme Court of Virginia, 100 North 9th Street, Richmond, Va. 23219; Tel. 804-786-6455.
+    - Citation:
+    - Licesning Information:
+    - Restrictions:
+- Court records via [Public Records Maintained by Clerks of Court]
+    - Mechanism:
     - Citation:
     - Licesning Information:
     - Restrictions:
 - [News articles](newsapi.org)
     - Mechanism: API 
-    - Citation:
+    - Citation: 
     - Licesning Information:
     - Restrictions:
+      
 As we discussed in class, the legality of such webscraping seems to be a point of contention in the courts. 
 
 
