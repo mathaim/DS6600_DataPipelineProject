@@ -13,10 +13,18 @@ Jason Armesto publised a [story](https://dailyprogress.com/news/local/education/
 It seems like a slap in the face of UVA's mission of doing both great and good, if we are profitting off of an ongoing genocide. UVIMCO's [Investor Responsibility Framework](https://uvimco.org/wp-content/uploads/2022/03/Investor-Responsibility-Framework.pdf) addresses the global issue of climate change but nothing else. 
 
 #### Background (6 points): reviews existing related work including published articles and public datasets, with citations for both.
-
+I don't know if a dashboard exists that is comparable to what I want to do. I would imagine if there is it isn't very well-known. The closest thing is probably articles about politicians or other people in power, exposing something about their past. 
 
 #### Data (6 points): lists potential sources for raw data, with citations, along with descriptions of the mechanism through which each data source shares data (through an API, web-scraping, a CSV file, etc.). Also, find and describe the licensing information for each data source to determine whether and under what restrictions you are allowed to use the data.
-The dataset that this dashboard relies on will be novel. It will require webscraping of voting history, LinkedIn profiles, law enforcement records, business records, judicial records, as well as a general google/news media search. As we discussed in class, the legality of such webscraping seems to be a point of contention in the courts. 
+The dataset that this dashboard relies on will be novel. It will require pulling from newsapi.org and webscraping of: 
+- [voting history](https://www.elections.virginia.gov/candidatepac-info/client-services/)
+- LinkedIn profiles
+- [criminal records](https://vsp.virginia.gov/services/criminal-background/)
+- publicly available business records via [Department of Professional and Occupation Regulation](https://www.dpor.virginia.gov/RecordsandDocuments) and [State Corporation Commission
+Clerk's Information System](https://cis.scc.virginia.gov/)
+- [court records](https://www.uscourts.gov/court-records/find-case-pacer#:~:text=Federal%20case%20files%20are%20maintained,Register%20for%20a%20PACER%20account.)
+  
+As we discussed in class, the legality of such webscraping seems to be a point of contention in the courts. 
 
 
 #### Potential analyses (6 points): identifies the key features/variables in the data sources listed in the previous section and provides some thoughts on the kinds of analyses that you would like to include on a public-facing dashboard. (Note: when I say “analysis”, I don’t necessarily mean machine learning. You are free to use ML or other heavy models, if you have the background and desire to do so, but these analyses can be simple, exploratory, and descriptive like cross-tabs, histograms, and correlation tables as these simple analyses usually are very effective at communicating key ideas.)
