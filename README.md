@@ -36,7 +36,9 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Citation: “Records & Documents.” Virginia Department of Professional and Occupational Regulation, www.dpor.virginia.gov/RecordsandDocuments. Accessed 6 Oct. 2024. 
     - Licesning Information:
     - Restrictions: Unclear yet, but the  State Corporation Commission had the following terms:
+      
           - Authorized uses of the CIS include:
+      
               - File or submit business entity documents for new and existing businesses
               - Pay business entity annual registration fees
               - Reinstate business entities
