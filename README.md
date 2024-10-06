@@ -31,12 +31,13 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Mechanism: webscraping
     - Citation:
     - Licesning Information:
-  Business records via [Department of Professional and Occupation Regulation](https://www.dpor.virginia.gov/RecordsandDocuments) and [State Corporation Commission
-Clerk's Information System](https://cis.scc.virginia.gov/)
-    - Mechanism: webscraping
+- Business records via [Department of Professional and Occupation Regulation](https://www.dpor.virginia.gov/RecordsandDocuments) 
+    - Mechanism: emailing PublicRecords@dpor.virginia.gov, they likely send a csv file
     - Citation:
     - Licesning Information:
     - Restrictions:
+- Business records via and [State Corporation Commission
+Clerk's Information System](https://cis.scc.virginia.gov/)
 - Court records via [Public Records Maintained by the Office of the Executive Secretary] 
     - Mechanism: requested from the Director of Legislative and Public Relations, Office of the Executive Secretary, Supreme Court of Virginia, 100 North 9th Street, Richmond, Va. 23219; Tel. 804-786-6455.
     - Citation:
