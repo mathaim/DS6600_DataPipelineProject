@@ -72,3 +72,4 @@ As we discussed in class, the legality of such webscraping seems to be a point o
 
 
 #### Challenges (6 points): discusses what some of the biggest challenges may be as you proceed through the rest of the project. If you are not sure that something within your plan will work out, describe an alternative plan to quickly turn to in case the original plan doesn’t succeed.
+I anticipate a number of logistical challenges beyond the controversial subject matter. Gathering data from these outdated government systems may prove to be a pain with not much benefit if I am not allowed to publish my findings. If that is the case, I will rely primarily on the News API to gather data that I put in the dashboard.
