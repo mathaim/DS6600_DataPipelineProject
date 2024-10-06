@@ -33,11 +33,17 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Licesning Information:
 - Business records via [Department of Professional and Occupation Regulation](https://www.dpor.virginia.gov/RecordsandDocuments) 
     - Mechanism: emailing PublicRecords@dpor.virginia.gov, they likely send a csv file
-    - Citation:
+    - Citation: “Records & Documents.” Virginia Department of Professional and Occupational Regulation, www.dpor.virginia.gov/RecordsandDocuments. Accessed 6 Oct. 2024. 
     - Licesning Information:
-    - Restrictions:
-- Business records via and [State Corporation Commission
-Clerk's Information System](https://cis.scc.virginia.gov/)
+    - Restrictions: Unclear yet, but the  State Corporation Commission had the following terms:
+          - Authorized uses of the CIS include:
+              - File or submit business entity documents for new and existing businesses
+              - Pay business entity annual registration fees
+              - Reinstate business entities
+              - File Uniform Commercial Code (UCC) and federal lien documents
+              - Serve process on the Clerk as statutory agent.
+      It is possible the Department of Professional and Occupation Regulation has similar terms in place.
+
 - Court records via [Public Records Maintained by the Office of the Executive Secretary] 
     - Mechanism: requested from the Director of Legislative and Public Relations, Office of the Executive Secretary, Supreme Court of Virginia, 100 North 9th Street, Richmond, Va. 23219; Tel. 804-786-6455.
     - Citation:
