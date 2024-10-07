@@ -1,4 +1,4 @@
-# DS6600_DataPipelineProject: Salary Ttransparency UVA Board of Visitors and UVIMCO Leadership Dashboard
+# DS6600_DataPipelineProject: Salary Transparency Dashboard: UVA Board of Visitors and UVIMCO Leadership
 
 #### Introduction (6 points): describes the general topic and purpose for collecting and working with the proposed data.
 
@@ -13,6 +13,8 @@ Jason Armesto publised a [story](https://dailyprogress.com/news/local/education/
 On being unwilling to divest - It seems like a slap in the face of UVA's mission of doing both great and good, if we are profitting off of an ongoing genocide. UVIMCO's [Investor Responsibility Framework](https://uvimco.org/wp-content/uploads/2022/03/Investor-Responsibility-Framework.pdf) addresses the global issue of climate change but nothing else. According to UVIMCO, "We all share a love of excellence, strive to be both great and good, feel called to serve the University, and appreciate our strong and enduring roots in the Charlottesville community." UVIMCO's mission is to generate exemplary investment returns to further the University of Virginia’s mission in perpetuity by providing support to current and future generations of students, faculty, staff, and patients. The University of Virginia's mission is to serves the Commonwealth of Virginia, the nation, and the world by developing responsible citizen leaders and professionals; advancing, preserving, and disseminating knowledge; and providing world-class patient care. How can it furter the university's mission if itslef does not contain responsible leaders and professionals (divest) nor does it disseminate knowledge (disclose)?
 
 On it being too difficult- With the salary that UVIMCO members take home, they should surely possess the financial acumen to do such difficult tasks. I hope to highlight this with the salary transparency.  
+
+While the members of the Board of Visitors are not paid by UVA, they hold the power to approve or deny the investment plan put forward by UVIMCO. I hope to gather more information about who these individuals are.
 
 #### Background (6 points): reviews existing related work including published articles and public datasets, with citations for both.
 I don't know if a dashboard exists that is comparable to what I want to do. I would imagine if there is it isn't very well-known. The closest thing is probably articles about politicians or other people in power, exposing their salaries and any other relevant info.
