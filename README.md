@@ -20,18 +20,19 @@ The dataset that this dashboard relies on will be novel and from on the followin
 - LinkedIn profiles
     - Mechanism: webscraping
     - Citation:
-    - Licesning Information:
+    - Licesning Information: TBD
     - Restrictions:
-- Court records via [Public Records Maintained by the Office of the Executive Secretary] 
-    - Mechanism: requested from the Director of Legislative and Public Relations, Office of the Executive Secretary, Supreme Court of Virginia, 100 North 9th Street, Richmond, Va. 23219; Tel. 804-786-6455.
+- [Compensation of UVIMCO Members and other Tax Information](https://projects.propublica.org/nonprofits/organizations/562462804) via ProPublica
+    - Mechanism: Nonprofit Explorer API
     - Citation:
-    - Licesning Information:
+    - Licesning Information:TBD
     - Restrictions:
+- [Compensation of UVA Board of Visitors from their public companies](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) via US Securities and Exchange Committees
 - [News articles](newsapi.org)
-    - Mechanism: API 
+    - Mechanism: EDGAR API 
     - Citation: 
-    - Licesning Information:
-    - Restrictions:
+    - Licesning Information:TBD
+    - Restrictions:Agencies are required to give the public notice of their systems of records by publication in the Federal Register. You may click here to see a list of the SEC's systems of records. The Act also provides individuals with a means by which to seek access to and amendment of their records, although such requests are subject to exemptions as set forth in the Privacy Act. In addition, the Act allows individuals to bring suit against an agency for violating the Privacy Act.
 - Images from UVA website
     - Mechanism: webscraping
     - Citation:
@@ -47,6 +48,13 @@ Sources I wanted to include but cannot for various reasons:
 - Criminal records via [Virginia State Police](https://vsp.virginia.gov/services/criminal-background/)
     - Mechanism: webscraping
     - Restrictions: Person you are requesting background search on must consent.
+ 
+Sources I may include but need to learn more about if I can share findings:
+- Court records via [Public Records Maintained by the Office of the Executive Secretary] 
+    - Mechanism: requested from the Director of Legislative and Public Relations, Office of the Executive Secretary, Supreme Court of Virginia, 100 North 9th Street, Richmond, Va. 23219; Tel. 804-786-6455.
+    - Citation:
+    - Licesning Information:
+    - Restrictions:
 - Business records via [Department of Professional and Occupation Regulation](https://www.dpor.virginia.gov/RecordsandDocuments) 
     - Mechanism: emailing PublicRecords@dpor.virginia.gov, they likely send a csv file
     - Citation: “Records & Documents.” Virginia Department of Professional and Occupational Regulation, www.dpor.virginia.gov/RecordsandDocuments. Accessed 6 Oct. 2024. 
