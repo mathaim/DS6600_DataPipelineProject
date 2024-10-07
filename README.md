@@ -13,27 +13,30 @@ Jason Armesto publised a [story](https://dailyprogress.com/news/local/education/
 It seems like a slap in the face of UVA's mission of doing both great and good, if we are profitting off of an ongoing genocide. UVIMCO's [Investor Responsibility Framework](https://uvimco.org/wp-content/uploads/2022/03/Investor-Responsibility-Framework.pdf) addresses the global issue of climate change but nothing else. 
 
 #### Background (6 points): reviews existing related work including published articles and public datasets, with citations for both.
-I don't know if a dashboard exists that is comparable to what I want to do. I would imagine if there is it isn't very well-known. The closest thing is probably articles about politicians or other people in power, exposing something about their past. 
+I don't know if a dashboard exists that is comparable to what I want to do. I would imagine if there is it isn't very well-known. The closest thing is probably articles about politicians or other people in power, exposing their salaries and any other relevant info.
+
+This [Forbes list of rich celebrities](https://www.forbes.com/celebrities/list/#tab:overall) relates to the salary transparency component.
+Citation: “The World’s Highest-Paid Celebrities.” Forbes, Forbes Magazine, www.forbes.com/celebrities/list/#tab:overall. Accessed 7 Oct. 2024. 
 
 #### Data (6 points): lists potential sources for raw data, with citations, along with descriptions of the mechanism through which each data source shares data (through an API, web-scraping, a CSV file, etc.). Also, find and describe the licensing information for each data source to determine whether and under what restrictions you are allowed to use the data.
 The dataset that this dashboard relies on will be novel and from on the following sources: 
-- LinkedIn profiles
-    - Mechanism: webscraping
-    - Citation:
-    - Licesning Information: TBD
-    - Restrictions:
 - [Compensation of UVIMCO Members and other Tax Information](https://projects.propublica.org/nonprofits/organizations/562462804) via ProPublica
     - Mechanism: Nonprofit Explorer API
     - Citation:
     - Licesning Information:TBD
     - Restrictions:
 - [Compensation of UVA Board of Visitors from their public companies](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) via US Securities and Exchange Committees
-- [News articles](newsapi.org)
     - Mechanism: EDGAR API 
     - Citation: 
     - Licesning Information:TBD
     - Restrictions:Agencies are required to give the public notice of their systems of records by publication in the Federal Register. You may click here to see a list of the SEC's systems of records. The Act also provides individuals with a means by which to seek access to and amendment of their records, although such requests are subject to exemptions as set forth in the Privacy Act. In addition, the Act allows individuals to bring suit against an agency for violating the Privacy Act.
-- Images from UVA website
+- [News articles](newsapi.org)
+    - Mechanism:  API 
+    - Citation: 
+    - Licesning Information:TBD
+    - Restrictions:
+- [UVA Board of Visitors website] and [UVIMCO website]
+    - Purpose: Obtain current occupation and photo
     - Mechanism: webscraping
     - Citation:
     - Licesning Information:
