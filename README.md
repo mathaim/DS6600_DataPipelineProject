@@ -82,7 +82,7 @@ Sources I may include but need to learn more about if I can share findings:
 
 1. **Gather information on UVIMCO members and the Board of Visitors:** The dashboard should serve as a resource in better understanding the people in these positions of power. The links on the [UVA's Board of Visitors Members](https://bov.virginia.edu/people) and [UVIMCO members](https://uvimco.org/leadership-team/) on the websites highlights career accomplishments and paints them in a very positive light, but I hope to go beyond that with this dashboard. What is their annual salary? I want to frame the salary visuation on a scale with what the average professor at UVA makes. I hope to produce some engaging visualizations with the salary data.
 
-I also hope to go beyond that, depending on the results from the News API. What have they done in their careers? Do they hold any public political views? Have they ever been sued? In essence, what is their digital footprint?
+    I also hope to go beyond that, depending on the results from the News API. What have they done in their careers? Do they hold any public political views? Have they ever been sued? In essence, what is their digital footprint?
    
 2. **Provide people who use my dashboard with the opportunity to express disappointment to these members:** My primary motivation for this project is not related to data wrangling. I hope to build a tool that prompts users' names and email addresses and automates an email to the 12 members of the board and 9 members of UVIMCO's leadership team. This email would express disappointment in their actions and highlight how their decision to not divest goes against UVA's mission of doing both great and good. 
 
