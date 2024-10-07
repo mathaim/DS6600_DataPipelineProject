@@ -34,13 +34,15 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Restrictions:Agencies are required to give the public notice of their systems of records by publication in the Federal Register. You may click here to see a list of the SEC's systems of records. The Act also provides individuals with a means by which to seek access to and amendment of their records, although such requests are subject to exemptions as set forth in the Privacy Act. In addition, the Act allows individuals to bring suit against an agency for violating the Privacy Act.
 - [News media](https://newsapi.org/docs/get-started) via newsapi.org
     - Mechanism: News API 
-    - Citation: 
+    - Citation: “Edgar Application Programming Interfaces.” U.S. Securities and Exchange Commission, www.sec.gov/search-filings/edgar-application-programming-interfaces. Accessed 7 Oct. 2024. 
     - Licesning Information:[MIT License](https://github.com/News-API-gh?tab=repositories) because all of the repos on the official github have an MIT License?
     - Restrictions: N/A    
 - [UVA's Board of Visitors Members](https://bov.virginia.edu/people) and [UVIMCO members](https://uvimco.org/leadership-team/)
     - Purpose: Obtain current occupation and photo
     - Mechanism: webscraping
-    - Citation:
+    - Citations:
+          - Board of Visitors, bov.virginia.edu/people. Accessed 7 Oct. 2024. 
+          - “Leadership Team.” UVIMCO, 3 Jan. 2024, uvimco.org/leadership-team/. 
     - Licesning Information: N/A
     - Restrictions:
       
