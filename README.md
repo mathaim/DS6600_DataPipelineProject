@@ -30,8 +30,8 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Citation: 
     - Licesning Information:TBD
     - Restrictions:Agencies are required to give the public notice of their systems of records by publication in the Federal Register. You may click here to see a list of the SEC's systems of records. The Act also provides individuals with a means by which to seek access to and amendment of their records, although such requests are subject to exemptions as set forth in the Privacy Act. In addition, the Act allows individuals to bring suit against an agency for violating the Privacy Act.
-- [News articles](newsapi.org)
-    - Mechanism:  API 
+- [newsapi.org](https://newsapi.org/docs/get-started))
+    - Mechanism: News API 
     - Citation: 
     - Licesning Information:TBD
     - Restrictions:
