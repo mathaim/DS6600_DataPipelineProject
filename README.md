@@ -24,12 +24,12 @@ This [Forbes list of rich celebrities](https://www.forbes.com/celebrities/list/#
 The dataset that this dashboard relies on will be novel and from on the following sources: 
 - [Compensation of UVIMCO Members and other Tax Information](https://projects.propublica.org/nonprofits/organizations/562462804) via ProPublica
     - Mechanism: Nonprofit Explorer API
-    - Citation:
+    - Citation: Suozzo, Andrea, et al. “University of Virginia Investment Management Company, Full Filing - Nonprofit Explorer.” ProPublica, 9 May 2013, projects.propublica.org/nonprofits/organizations/562462804/202401359349311605/full. 
     - Licesning Information:TBD
     - Restrictions: N/A
 - [Compensation of UVA Board of Visitors from their public companies](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) via US Securities and Exchange Committees
     - Mechanism: EDGAR API 
-    - Citation: 
+    - Citation: “Edgar Application Programming Interfaces.” U.S. Securities and Exchange Commission, www.sec.gov/search-filings/edgar-application-programming-interfaces. Accessed 7 Oct. 2024. 
     - Licesning Information:TBD
     - Restrictions:Agencies are required to give the public notice of their systems of records by publication in the Federal Register. You may click here to see a list of the SEC's systems of records. The Act also provides individuals with a means by which to seek access to and amendment of their records, although such requests are subject to exemptions as set forth in the Privacy Act. In addition, the Act allows individuals to bring suit against an agency for violating the Privacy Act.
 - [News media](https://newsapi.org/docs/get-started) via newsapi.org
