@@ -16,7 +16,7 @@ It seems like a slap in the face of UVA's mission of doing both great and good, 
 I don't know if a dashboard exists that is comparable to what I want to do. I would imagine if there is it isn't very well-known. The closest thing is probably articles about politicians or other people in power, exposing their salaries and any other relevant info.
 
 This [Forbes list of rich celebrities](https://www.forbes.com/celebrities/list/#tab:overall) relates to the salary transparency component.
-Citation: “The World’s Highest-Paid Celebrities.” Forbes, Forbes Magazine, www.forbes.com/celebrities/list/#tab:overall. Accessed 7 Oct. 2024. 
+- Citation: “The World’s Highest-Paid Celebrities.” Forbes, Forbes Magazine, www.forbes.com/celebrities/list/#tab:overall. Accessed 7 Oct. 2024. 
 
 #### Data (6 points): lists potential sources for raw data, with citations, along with descriptions of the mechanism through which each data source shares data (through an API, web-scraping, a CSV file, etc.). Also, find and describe the licensing information for each data source to determine whether and under what restrictions you are allowed to use the data.
 The dataset that this dashboard relies on will be novel and from on the following sources: 
