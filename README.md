@@ -95,3 +95,6 @@ The first challenge I anticipate is its controversial subject nature. The Univer
 The second challenge I anticipate is the webscraping. As we discussed in class, webscraping can be finicky. I believe this website isn't updated often (only when new members join) so hopefully I can navigate it. I picked the website because I think it will be easier to navigate for images + career info than LinkedIn, but if it fails, I can switch to LinkedIn.
 
 The third challenge I anticipate is building the automatic email tool. I have never done anything like this before, so I don't even know what challenges to expect.
+
+
+Use of GenAI: I did not use GenAI to write any part of this file. I plan on using GenAI to help me code for this project.
