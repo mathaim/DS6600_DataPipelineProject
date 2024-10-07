@@ -1,4 +1,4 @@
-# DS6600_DataPipelineProject: UVA Board of Visitors and UVIMCO Leadership Dashboard
+# DS6600_DataPipelineProject: Salary Ttransparency UVA Board of Visitors and UVIMCO Leadership Dashboard
 
 #### Introduction (6 points): describes the general topic and purpose for collecting and working with the proposed data.
 
