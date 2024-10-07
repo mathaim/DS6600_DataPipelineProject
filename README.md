@@ -24,7 +24,7 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Mechanism: Nonprofit Explorer API
     - Citation:
     - Licesning Information:TBD
-    - Restrictions:
+    - Restrictions: N/A
 - [Compensation of UVA Board of Visitors from their public companies](https://www.sec.gov/search-filings/edgar-application-programming-interfaces) via US Securities and Exchange Committees
     - Mechanism: EDGAR API 
     - Citation: 
@@ -33,13 +33,13 @@ The dataset that this dashboard relies on will be novel and from on the followin
 - [News media](https://newsapi.org/docs/get-started) via newsapi.org
     - Mechanism: News API 
     - Citation: 
-    - Licesning Information:TBD
-    - Restrictions:
+    - Licesning Information:[MIT License](https://github.com/News-API-gh?tab=repositories) because all of the repos on the official github have an MIT License?
+    - Restrictions: N/A    
 - [UVA's Board of Visitors Members](https://bov.virginia.edu/people) and [UVIMCO members](https://uvimco.org/leadership-team/)
     - Purpose: Obtain current occupation and photo
     - Mechanism: webscraping
     - Citation:
-    - Licesning Information:
+    - Licesning Information: N/A
     - Restrictions:
       
 Sources I wanted to include but cannot for various reasons:
