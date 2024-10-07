@@ -41,8 +41,9 @@ The dataset that this dashboard relies on will be novel and from on the followin
     - Purpose: Obtain current occupation and photo
     - Mechanism: webscraping
     - Citations:
-          - Board of Visitors, bov.virginia.edu/people. Accessed 7 Oct. 2024. 
-          - “Leadership Team.” UVIMCO, 3 Jan. 2024, uvimco.org/leadership-team/. 
+      
+      1. Board of Visitors, bov.virginia.edu/people. Accessed 7 Oct. 2024. 
+      2. “Leadership Team.” UVIMCO, 3 Jan. 2024, uvimco.org/leadership-team/. 
     - Licesning Information: N/A
     - Restrictions:
       
